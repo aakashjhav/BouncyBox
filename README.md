@@ -7,10 +7,10 @@ Here's a breakdown of what each part of the code does:
    > The :root rule defines CSS variables for box color, rotation speed, and bounce speed.
 
 2. Body Styling:
-
-> Sets a black background and ensures the minimum height is 100% of the viewport height.
-> Uses flexbox to center content horizontally and vertically.
-> Adds a 3D perspective effect.
+   
+   > Sets a black background and ensures the minimum height is 100% of the viewport height.
+   > Uses flexbox to center content horizontally and vertically.
+   > Adds a 3D perspective effect.
 
 3. Scene Setup:
 
@@ -44,12 +44,10 @@ Here's a breakdown of what each part of the code does:
    > ballBounce: Moves the .ball up and down to create a bouncing effect.
    > ballShadow: Scales and changes the opacity of the .ballshadow to match the ball's bounce.
    > cubeHeight: Adjusts the height of the .cube to simulate a bouncing effect.
+   
+   
 
 Overall, the code creates a visually dynamic 3D animation with a bouncing ball and a rotating cube on a patterned floor.
 
-
-
-#Codepen
-[codepen](
-https://codepen.io/pen?template=bGydJVq
-)
+## Demo
+![Recording2024-05-15191548-ezgif com-video-to-gif-converter](https://github.com/aakashjhav/BouncyBox/assets/68254095/bcf248e3-7c55-4358-b632-1c44bb0608c2)
