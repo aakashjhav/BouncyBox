@@ -46,3 +46,10 @@ Here's a breakdown of what each part of the code does:
    > cubeHeight: Adjusts the height of the .cube to simulate a bouncing effect.
 
 Overall, the code creates a visually dynamic 3D animation with a bouncing ball and a rotating cube on a patterned floor.
+
+
+
+#Codepen
+[codepen](
+https://codepen.io/pen?template=bGydJVq
+)
