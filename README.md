@@ -36,8 +36,8 @@ Here's a breakdown of what each part of the code does:
    > Animates height to simulate bouncing with the cubeHeight keyframes.
 
 7. Floor:
-   .floor class styles a checkered floor using a combination of radial and conic gradients.
-   Positioned and rotated to appear as the floor in the 3D scene.
+   > .floor class styles a checkered floor using a combination of radial and conic gradients.
+   > Positioned and rotated to appear as the floor in the 3D scene.
 
 8. Animations:
    > sceneRotate: Rotates the .scene container continuously.
